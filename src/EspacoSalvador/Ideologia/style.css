@@ -1,0 +1,25 @@
+.logo{
+    width: 100%;
+    height: 100%;
+    background-image: url(images/Image.svg);
+}
+
+.titulo{
+color: #ff66c4;
+margin-top: 140px;
+text-align: center;
+margin-right: 13px;
+font-family: 'Big Shoulders Display';
+}
+
+.texto{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-family: 'Big Shoulders Display';font-size: 24px;
+    word-wrap: break-word;
+    margin: 10px;
+    color: #fff;
+    text-transform: uppercase;
+}
+

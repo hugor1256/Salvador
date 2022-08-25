@@ -1,0 +1,225 @@
+.logo{
+    width: 100%;
+    height: 100%;
+    background-image: url(images/Image.svg);
+}
+
+.titulo{
+color: #C9E265;
+margin-top: 50px;
+text-align: center;
+margin-right: 13px;
+}
+
+.containerEvento1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dataEvento{
+color: #ff914d;
+font-family: 'Big Shoulders Display';font-size: 22px;
+}
+
+.espetaculo{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #fff;
+}
+
+.local{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #ff66c4;
+}
+
+.producao{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #fff;
+}
+
+.direcao{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #fff;
+}
+.NoiteVerao{
+    width: 200px;
+    height: 300px;
+    height: 100%;
+    margin: 15px;
+}
+
+.SaibaMais1 {
+    margin-top: 10px;
+    background-color: #ff1616;
+    border-radius: 999px;
+    box-shadow: #000000 0 10px 20px -10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 8px 18px;
+    border: 1px solid black;
+    width: 300px;
+  }
+
+  .SaibaMais1:hover{
+    background-color: #b40707;
+}
+
+.containerEvento2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dataEvento{
+color: #ff914d;
+font-family: 'Big Shoulders Display';font-size: 22px;
+margin-top: 40px;
+}
+
+.espetaculo{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #fff;
+}
+
+.local{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #ffde59;
+}
+
+.producao{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #fff;
+}
+
+.ContaminaComedy{
+    width: 250px;
+    height: 100%;
+    margin: 15px;
+}
+
+.SaibaMais2 {
+    margin-top: 10px;
+    background-color: #ff1616;
+    border-radius: 999px;
+    box-shadow: #000000 0 10px 20px -10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 8px 18px;
+    border: 1px solid black;
+    width: 300px;
+  }
+
+  .SaibaMais2:hover{
+    background-color: #b40707;
+}
+
+.containerEvento3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dataEvento{
+color: #ffde59;
+font-family: 'Big Shoulders Display';font-size: 22px;
+margin-top: 40px;
+}
+
+.espetaculo{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #fff;
+}
+
+.local{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #c9e265;
+}
+
+.producao{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #fff;
+}
+
+.OficinaDanca{
+    width: 250px;
+    height: 100%;
+    margin: 15px;
+}
+
+.SaibaMais3 {
+    margin-top: 10px;
+    background-color: #ff1616;
+    border-radius: 999px;
+    box-shadow: #000000 0 10px 20px -10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 8px 18px;
+    border: 1px solid black;
+    width: 300px;
+  }
+
+  .SaibaMais3:hover{
+    background-color: #b40707;
+}
+
+.containerEvento4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dataEvento{
+color: #ffde59;
+font-family: 'Big Shoulders Display';font-size: 22px;
+margin-top: 40px;
+}
+
+.espetaculo{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #fff;
+}
+
+.local{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #cb6ce6;
+}
+
+.producao{
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    color: #fff;
+}
+
+.OficinaMusica{
+    width: 250px;
+    height: 100%;
+    margin: 15px;
+}
+
+.SaibaMais4 {
+    margin-top: 10px;
+    background-color: #ff1616;
+    border-radius: 999px;
+    box-shadow: #000000 0 10px 20px -10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 8px 18px;
+    border: 1px solid black;
+    width: 300px;
+  }
+
+  .SaibaMais4:hover{
+    background-color: #b40707;
+}
+
