@@ -1,0 +1,47 @@
+.logo{
+    width: 100%;
+    height: 100%;
+    background-image: url(images/Image.svg);
+}
+
+.NomeLais{
+    font-size: 25px;
+    text-align: center;
+    color: #FFDE59;
+    font-family: 'Big Shoulders Display';font-size: 22px;
+    font-weight: 600;
+}
+
+.ContainerLais{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.NomeLais{
+    width: 300px;
+    height: 300px;
+    height: 100%;
+    margin-right: 20px;
+}
+
+.descricaoLais{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-family: 'Big Shoulders Display';font-size: 20px;
+    word-wrap: break-word;
+    margin: 10px;
+    color: #000;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+  
