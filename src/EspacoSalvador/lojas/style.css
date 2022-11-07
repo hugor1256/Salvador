@@ -1,0 +1,84 @@
+.logo{
+    width: 100%;
+    height: 100%;
+    background-image: url(images/Image.svg);
+    margin-top: -90px;
+}
+
+.titulo{
+    color: #ff1616;
+    margin-top: 140px;
+    text-align: center;
+    margin-right: 13px;
+    font-family: 'Big Shoulders Display'; font-size: 50px;
+}
+
+.amarelo{
+    color: #ffdf2b;  
+}
+
+.arena{
+    text-align: center; 
+    font-family: 'Big Shoulders Display';font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.loterica{
+    text-align: center; 
+    font-family: 'Big Shoulders Display';font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffdf2b;
+}
+
+.loja{
+    text-align: center; 
+    font-family: 'Big Shoulders Display';font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #008037;
+}
+
+.cafe{
+    text-align: center; 
+    font-family: 'Big Shoulders Display';font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ff914d;
+}
+
+.bar{
+    text-align: center; 
+    font-family: 'Big Shoulders Display';font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ff66c4;
+}
+
+.facil{
+    text-align: center; 
+    font-family: 'Big Shoulders Display';font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #004aad;
+}
+
+.restaurante{
+    text-align: center; 
+    font-family: 'Big Shoulders Display';font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #cb6ce6;
+}
+
+.texto1{
+    justify-content: center;
+    font-weight: 700;
+    font-family: 'Big Shoulders Display';font-size: 24px;
+    word-wrap: break-word;
+    color: rgb(3, 3, 3);
+    text-transform: uppercase;
+}
+
+
