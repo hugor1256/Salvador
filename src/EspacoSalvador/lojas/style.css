@@ -81,4 +81,10 @@
     text-transform: uppercase;
 }
 
+.divCentro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
 

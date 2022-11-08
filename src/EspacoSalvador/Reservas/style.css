@@ -13,65 +13,33 @@
     font-family: 'Big Shoulders Display'; font-size: 50px;
 }
 
-.amarelo{
-    color: #ffdf2b;  
-}
-
-.arena{
-    text-align: center; 
-    font-family: 'Big Shoulders Display';font-size: 24px;
-    font-weight: 700;
-    text-transform: uppercase;
-}
-
-.loterica{
-    text-align: center; 
-    font-family: 'Big Shoulders Display';font-size: 24px;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #ffdf2b;
-}
-
-.loja{
-    text-align: center; 
-    font-family: 'Big Shoulders Display';font-size: 24px;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #008037;
-}
-
-.cafe{
-    text-align: center; 
-    font-family: 'Big Shoulders Display';font-size: 24px;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #ff914d;
-}
-
-.bar{
-    text-align: center; 
-    font-family: 'Big Shoulders Display';font-size: 24px;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #ff66c4;
-}
-
-.facil{
-    text-align: center; 
-    font-family: 'Big Shoulders Display';font-size: 24px;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #004aad;
-}
-
-.restaurante{
-    text-align: center; 
-    font-family: 'Big Shoulders Display';font-size: 24px;
-    font-weight: 700;
-    text-transform: uppercase;
+.roxo{
     color: #cb6ce6;
 }
 
+.vermelho{
+    color: #ff1616;
+}
+
+.verde{
+    color: #1ed660;
+}
+
+.amarelo{
+    color: #ffdf2b;
+}
+
+.rosa{
+    color: #ff66c4;
+}
+
+.azul{
+    color: #004aad;
+}
+
+.laranja{
+    color: #ff914d;
+}
 .texto1{
     justify-content: center;
     font-weight: 700;
@@ -81,4 +49,32 @@
     text-transform: uppercase;
 }
 
+.texto2{
+    align-items: center;
+    font-weight: 700;
+    font-family: 'Big Shoulders Display';font-size: 24px;
+    word-wrap: break-word;
+    color: rgb(3, 3, 3);
+    text-transform: uppercase;
+}
 
+.SaibaMais1 {
+    margin-top: 10px;
+    background-color: #ff1616;
+    border-radius: 999px;
+    box-shadow: #000000 0 10px 20px -10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 8px 18px;
+    border: 1px solid black;
+    width: 240px;
+  }
+
+  .divCentro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
