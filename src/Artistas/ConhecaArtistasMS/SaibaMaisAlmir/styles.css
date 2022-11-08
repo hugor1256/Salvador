@@ -38,7 +38,7 @@
 }
 
 .lancamentoAlmir{
-    color: #cb6ce6;
+    color: #ff914d;
     display: flex;
     justify-content: center;
     font-weight: 700;
@@ -81,6 +81,10 @@
     justify-content: space-between;
 }
 
+.videoAlmir{
+    width: 380px;
+    margin-right: 17px;
+}
 
 
   
